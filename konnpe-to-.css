@@ -1,0 +1,21 @@
+
+h1{
+    color: #1100ff; 
+    font-size: 70px;
+}
+body {
+    background-color:#ffff00;
+ } 
+img{
+    width:800px;
+    height:1300px;
+}
+body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-image:url("imeji/IMG-8727.JPG");
+}
+h3{
+    font-size: 40px;
+}
